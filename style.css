@@ -1,0 +1,139 @@
+
+.nav .nav-item .nav-link
+{
+    color: #949494;
+    text-align: center;
+    font-size: 18px;
+    
+}
+body
+{
+    background-color: #F3F2EC;
+}
+.carousel .btn
+{
+    background-color: transparent;
+    color: #C5A992;
+    border: 1px solid #C5A992;
+    border-radius: 0%;
+}
+#scrollspyHeading1,#scrollspyHeading2,#scrollspyHeading3,#scrollspyHeading4,#scrollspyHeading5,#scrollspyHeading6
+{
+    background-color: #F3F2EC;
+}
+.carousel .carousel-control-prev .carousel-control-prev-icon
+{
+    margin-top: -300px;
+    padding: 8px;
+    border: 1px solid #949494;
+    border-radius: 50%;
+    margin-left: -75%;
+    color: black;
+
+}
+.carousel .carousel-control-next .carousel-control-next-icon
+{
+    margin-top: -300px;
+    padding: 8px;
+    border: 1px solid #949494;
+    border-radius: 50%;
+    margin-left: 75%;
+    color: black;
+}
+.card
+{
+    background-color: #EDEBE4;
+    border: 0px;
+}
+.card h5
+{
+    color: #74642F;
+}
+.under
+{
+    text-decoration: 3px solid underline #74642F;
+    text-underline-offset: 10px;
+}
+#pills-tab .nav-item .nav-link:hover
+{
+    color: black !important;
+    text-decoration: 3px solid underline #74642F;
+    text-underline-offset: 10px;
+}
+.tab-pane .card-title,.card-text
+{
+    color: #74642F;
+}
+.tab-pane .btn
+{
+    display: none;
+}
+.tab-pane .card:hover .btn
+{
+    display: block;
+}
+.blockquote p
+{
+    font-family: "Raleway",sans-serif;
+    color: #757575;
+}
+.offer .card-title,.card-text
+{
+    color: #74642F;
+}
+.offer .btn
+{
+    display: none;
+}
+.offer .card:hover .btn
+{
+    display: block;
+}
+input[type=email]
+{
+    background-color: #F3F2EC;
+    border: none;
+    outline: none;
+}
+.fa-paper-plane
+{
+    transition: 3s;
+}
+.sub:hover .fa-paper-plane
+{
+    transform: translateX(10px);
+}
+.art a
+{
+    color: black;
+    margin-right: 10px;
+}
+.art .card
+{
+    overflow: hidden;
+}
+.art .card:hover img
+{
+    transition: 3s;
+    transform: scale(1.1,1.1);
+}
+.btn1
+{
+    background-color: transparent;
+    color: #C5A992;
+    border: 1px solid #C5A992;
+}
+.footer a
+{
+    color: black;
+    text-decoration: none;
+}
+.footer p
+{
+    font-size: 15px;
+}
+.dropdown-menu
+{
+    margin-left: -250px;
+    width: 350px;
+}
